@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @yuriizd ... Yurii
 - 👀 I’m interested in ... DataEngineering
 - 🌱 I’m currently learning ... SQL and Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... moto.cream@protonmail.ch
 - :relaxed: If you like motorcycles as me, gimme a star :star: xDDDDD
-
+- Some usefull stuff you can find here - www.youtube.com/@iConnVj
 
 
 
